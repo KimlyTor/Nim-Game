@@ -1,7 +1,7 @@
 /*****************************************
  * Test class for Nim game
  * 
- * @author ktkay
+ * @author Canon
  
  ****************************************/ 
 import java.util.Scanner;
