@@ -1,7 +1,7 @@
 /*****************************************
  * Human Nim player
  * 
- * @author Kimly Tor
+ * @author ktkay
  
  ****************************************/ 
 import java.util.Scanner;
