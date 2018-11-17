@@ -1,7 +1,7 @@
 /*****************************************
  * Test class for Nim game
  * 
- * @author Kimly Tor
+ * @author ktkay
  
  ****************************************/ 
 import java.util.Scanner;
